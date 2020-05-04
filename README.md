@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome Anna's profile
 
 You can use the [editor on GitHub](https://github.com/arsentieva/anna.arsentieva.com/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
