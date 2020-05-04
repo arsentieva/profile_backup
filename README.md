@@ -6,9 +6,24 @@ Good time of the day, I am Anna a software developer, teacher and speaker. I am 
 
 I am passionate about finding ways to develop and polish skills that pave the path to success and my mission is to show how to leverage time, focus and resourcefulness to develop in to a well-rounded person that will assist in enjoying professional and personal milestones that we all encounter in this journey called life.
 
+### Curently expirienced with:
+- C#
+-Java
+-SQL
+-REST
+
+### Current areas of study:
+-JavaScript (browser and Node.js)
+-HTML / CSS
+
+###Future areas of study:
+-React.js
+-Express
+-Python / Flask
 
 
-### Talk to me I am kinda awesome
+
+#### Talk to me I am kinda awesome
 [LinkedIn](https://www.linkedin.com/in/annaarsentieva/)
 
 
