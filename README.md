@@ -26,6 +26,7 @@ I am passionate about finding ways to develop and polish skills that pave the pa
 
 #### Talk to me I am kinda awesome
 [LinkedIn](https://www.linkedin.com/in/annaarsentieva/)
+
 [Github](https://github.com/arsentieva)
 
 
