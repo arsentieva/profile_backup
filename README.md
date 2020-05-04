@@ -8,18 +8,19 @@ I am passionate about finding ways to develop and polish skills that pave the pa
 
 ### Curently expirienced with:
 - C#
--Java
--SQL
--REST
+- Java
+- SQL
+- REST
 
 ### Current areas of study:
--JavaScript (browser and Node.js)
--HTML / CSS
+- JavaScript (browser and Node.js)
+- HTML / CSS
 
-###Future areas of study:
--React.js
--Express
--Python / Flask
+### Future areas of study:
+- React.js
+- Express
+- Python / Flask
+- Docker
 
 
 
