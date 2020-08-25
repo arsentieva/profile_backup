@@ -11,22 +11,52 @@ I am passionate about finding ways to develop and polish skills that pave the pa
 - Java
 - SQL
 - REST
-
-### Current areas of study:
 - JavaScript (browser and Node.js)
 - HTML / CSS
-
-### Future areas of study:
 - React.js
 - Express
 - Python / Flask
 - Docker
 
+### Future areas of study:
+- Microservices
+- Machine Learning
+- Big Data
+- AI
+- Flatter
+
+
+### Projects
+
+#### Maxiumum - Medium Clome (Node.js, Sequelize, Express) [live](https://polar-springs-21679.herokuapp.com/) | [github](https://github.com/arsentieva/maximum.git) 
+Built a clone of the popular Medium application called Maximum.
+
+- Sequelize ORM
+  - Implemented custom models for users, teams, projects, and tasks
+  - Utilized Sequelize hooks to encrypt and hash registration passwords using the bcryptjs package
+  - Used custom data validation to confirm data input
+  - Implemented express-session to track and persist end-user login state
+- Node.js / Express
+  - Used Express to manage Restful API endpoints
+  - Created custom middleware to manage security and authorization throughout the application
+  - Added routes to handle CRUD operations for users, tasks, teams, projects, and columns
+
+#### Skylog   (ReactJS) [live](https://skydivinglog.herokuapp.com/) | [github](https://github.com/arsentieva/skylog_app)
+a better way to keep track of skydiving adventures.
+
+- React.js 
+  - Used React Router to handle routing
+  - Extensive use of hooks like useState, useEffect, and useContext to manage a global state and allow for data to persist for the lifetime of the data set
+  - Use of useHistory to elegantly handle page animated page transitions
+- Material UI 
+  - Self-taught the basics of material UI components and theming to built a custom control widget
 
 
 #### Talk to me I am kinda awesome
 [LinkedIn](https://www.linkedin.com/in/annaarsentieva/)
 
 [Github](https://github.com/arsentieva)
+
+[AngelList](https://angel.co/u/anna-arsentieva)
 
 
