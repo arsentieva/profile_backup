@@ -53,10 +53,6 @@ a better way to keep track of skydiving adventures.
 
 
 #### Talk to me I am kinda awesome
-[LinkedIn](https://www.linkedin.com/in/annaarsentieva/)
-
-[Github](https://github.com/arsentieva)
-
-[AngelList](https://angel.co/u/anna-arsentieva)
+[LinkedIn](https://www.linkedin.com/in/annaarsentieva/)   |   [Github](https://github.com/arsentieva)   |   [AngelList](https://angel.co/u/anna-arsentieva)
 
 
