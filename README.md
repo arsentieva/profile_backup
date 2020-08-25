@@ -49,7 +49,7 @@ a better way to keep track of skydiving adventures.
   - Extensive use of hooks like useState, useEffect, and useContext to manage a global state and allow for data to persist for the lifetime of the data set
   - Use of useHistory to elegantly handle page animated page transitions
 - Material UI 
-  - Self-taught the basics of material UI components and theming to built a custom control widget
+  - Self-taught the basics of material UI components and theming to built a custom components
 
 
 #### Talk to me I am kinda awesome
