@@ -50,6 +50,20 @@ a better way to keep track of skydiving adventures.
   - Use of useHistory to elegantly handle page animated page transitions
 - Material UI 
   - Self-taught the basics of material UI components and theming to built a custom components
+  
+####  CAMPY   (React.js, Python, Flask)	[live](https://campy-client.herokuapp.com/) | [github](https://github.com/arsentieva/campy-frontend) 
+- React.js 
+   - Integrated Google Maps API with the React Google API npm package to locate, auto-complete, and custom search functionality to dynamically present camp locations based on user parameters. 
+   - Implemented an efficient backend RESTful API by using Flask Restx package resulting in a well organized, easy to maintain,  and performant code.
+- Python 
+  - Used Flask Rest X to create and manage Restful API endpoints
+  - Used Flask JWT Extended to manage security and authorization throughout the application
+  - Added routes to handle CRUD operations for users, tasks, teams, projects, and columns
+  
+
+#### CURRENS   (React.js, Flask, Docker)	- In Development	[live](https://currens-client.herokuapp.com/login) | [github](https://github.com/arsentieva/currens) 
+ Integrated Google Maps Javascript API, Elevation API, OAuth to create a running app that keeps track of the path and animates the user’s path traveled.
+
 
 
 #### Talk to me I am kinda awesome
