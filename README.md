@@ -28,7 +28,7 @@ I am passionate about finding ways to develop and polish skills that pave the pa
 
 ### Projects
 
-#### Maxiumum - Medium Clone (Node.js, Sequelize, Express) [live](https://polar-springs-21679.herokuapp.com/) | [github](https://github.com/arsentieva/maximum.git) 
+#### Maxiumum - Medium Clone (Node.js, Sequelize, Express) [live](https://maximum-front-end.herokuapp.com/) | [github](https://github.com/arsentieva/maximum.git) 
 Built a clone of the popular Medium application called Maximum.
 
 - Sequelize ORM
